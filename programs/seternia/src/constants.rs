@@ -1,0 +1,11 @@
+pub const TRESURE_SEED: &[u8] = b"TRESURE_SEED";
+pub const ROLE_SEED: &[u8] = b"ROLE_SEED";
+pub const FACTION_SEED: &[u8] = b"FACTION_SEED";
+pub const PROGRAM_SEED: &[u8] = b"PROGRAM_SEED";
+pub const COIN_SEED: &[u8] = b"COIN_SEED";
+pub const COLLECTION_AUTHORITY: &[u8] = b"collection_authority";
+pub const COLLECTION: &[u8] = b"collection";
+pub const METADATA: &[u8] = b"metadata";
+pub const EDITION: &[u8] = b"edition";
+pub const MINT: &[u8] = b"mint";
+pub const DATA: &[u8] = b"data";
